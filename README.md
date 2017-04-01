@@ -1,6 +1,7 @@
 # yotsubotnet
-A botnet for /r/place. Currently at the service of the void.
-
+A botnet for /r/place.
+<!---Currently at the service of the void.
+-->
 Don't worry, though, it's not as scary as it sounds.
 
 ## Purpose
