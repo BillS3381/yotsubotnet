@@ -1,5 +1,3 @@
-
-
 // ==UserScript==
 // @name         le reddit auto-draw
 // @namespace    fagot
@@ -49,7 +47,7 @@ async function drawPixel(x,y,c) {
               color: c
           }
     		});
-    	console.log(`Drew pixel`);
+    	console.log("Drew pixel: " + x + "/" + y);
       setTimeout(function(){ location.reload(); }, 5*1000);
     }
 }
@@ -95,4 +93,3 @@ function init() {
 }
 
 setTimeout(init, 1500);
-
