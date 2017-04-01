@@ -27,3 +27,5 @@ It'll automatically wait until the timer is out, then place a tile and refresh. 
 
 ## Credits
 This was made by the fags over at [4place](https://discord.gg/6v27V9S). Pay us a visit if you want to.
+
+Contact apt-get#6951 if you need any kind of help.
